@@ -18,6 +18,7 @@
 * Ppl create computing innovations (3d printers)
 * Advances in computing generated creativity in other fields
 * LOOK AT FLOWCHARTS! Assume anything will work unless stated otherwise
+*
 **Beneficial and Harmful Effects.2**
 * Comp innovation can impact beyond purpose
 * Ex: internet was beneficial, now ppl spend more time on internet than sleep
