@@ -67,45 +67,7 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 *  iii. Yes! Definitely. There are a lot of set rules that make it difficult for there to be fair allocation of devices, and so not everybody is empowered. At DNHS, there are many students who cannot get a device of their own, and must use a chromebook in school everyday provided by the school. This exists all over the world, in underprivileged and rural areas, and strong adhesion to such rules.
 
 
-
-</tr>
-<tr>
-<td>Saumya</td>
-<td>
-  <a href="https://github.com/saumyapalk23" target="_blank">saumyapalak23</a>
-</td>
-<td>
-<a href="https://github.com/sarayu-pr11/saas/issues?q=is%3Aopen+assignee%3A%40me" target="_blank">Tasks</a>
-</td>
-<td>
-  <a href="https://github.com/sarayu-pr11/saas/projects/1" target="_blank">Scrum Board</a>
-</td>
-<td>
-  <a href="https://github.com/sarayu-pr11/saas/commits?author=saumyapalk23" target="_blank">Commits</a>
-</td>
-<td>
-  <a href="https://saumyapalk23.github.io/Saumya-Palakodety-Trimester-3-/" target="_blank">Github Page</a>
-</td>
-
-  
-
-</tr>
-<tr>
-<td>Create Task (Saumya and Vidhi)</td>
-<td>
-  
-| Profile Links | | Planning Page | Code Snippets/Written Responses
-  
- <a href="https://github.com/saumyapalk23" target="_blank">saumyapalak23</a>
- <a href="https://github.com/VidhiKulkarni" target="_blank">VidhiKulkarni</a>
-
-  
-<a href="http://dnhscodefish.tk/" target="_blank">Runtime Link</a>
-
-<a href="https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" target="_blank">Planning</a>
-
-<a href="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" target="_blank">Code Snippets/Written Responses (Saumya)</a>
-<a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a>
+**_Create Task_**
 
 |Profile Links | Runtime Link (Codefish) | Code Snippets/Written Responses | Planning Page |
 | --------------- | --------------- | -------------------------------------- | --------------|
