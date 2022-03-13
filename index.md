@@ -87,24 +87,28 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
   <a href="https://saumyapalk23.github.io/Saumya-Palakodety-Trimester-3-/" target="_blank">Github Page</a>
 </td>
 
+  
 
 </tr>
 <tr>
 <td>Create Task (Saumya and Vidhi)</td>
 <td>
-  <a href="https://github.com/saumyapalk23" target="_blank">saumyapalak23</a>
-    <a href="https://github.com/VidhiKulkarni" target="_blank">VidhiKulkarni</a>
-</td>
-<td>
-<a href="http://dnhscodefish.tk/" target="_blank">Runtime Link</a>
-</td>
-<td>
-  <a href="https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" target="_blank">Planning</a>
-</td>
-<td>
-  <a href="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" target="_blank">Code Snippets/Written Responses (Saumya)</a>
-    <a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a>
-<td>
-</td>
+  
+| Profile Links | | Planning Page | Code Snippets/Written Responses
+  
+ <a href="https://github.com/saumyapalk23" target="_blank">saumyapalak23</a>
+ <a href="https://github.com/VidhiKulkarni" target="_blank">VidhiKulkarni</a>
 
+  
+<a href="http://dnhscodefish.tk/" target="_blank">Runtime Link</a>
+
+<a href="https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" target="_blank">Planning</a>
+
+<a href="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" target="_blank">Code Snippets/Written Responses (Saumya)</a>
+<a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a>
+
+|Profile Links | Runtime Link (Codefish) | Code Snippets/Written Responses |
+| --------------- | --------------- | -------------------------------------- |
+|  <a href="https://github.com/saumyapalk23" target="_blank">saumyapalak23</a> | http://dnhscodefish.tk/ |<a href="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" target="_blank">Code Snippets/Written Responses (Saumya)</a>
+|<a href="https://github.com/VidhiKulkarni" target="_blank">VidhiKulkarni</a> |http://dnhscodefish.tk/| <a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a> | |
 
