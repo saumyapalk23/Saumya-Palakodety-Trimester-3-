@@ -104,7 +104,7 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 <td>
   <a href="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" target="_blank">Code Snippets/Written Responses (Saumya)</a>
     <a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a>
-
+<td>
 </td>
 
 
