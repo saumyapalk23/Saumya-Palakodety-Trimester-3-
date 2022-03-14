@@ -1,6 +1,6 @@
 | Week |**Review Tickets**|
 |-------|--------------------|
-|Week 0 |<a href="https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/issues/1" target="_blank">saumyapalak23</a> |
+|Week 0 |<a href="https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/issues/1" target="_blank">Review Ticket Week 0 (Graded by Kaavya)</a> |
 
 
 **_5.1-5.6 Study Notes_**
