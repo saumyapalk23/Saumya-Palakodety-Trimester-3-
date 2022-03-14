@@ -1,3 +1,8 @@
+| Week |**Review Tickets**|
+|-------|--------------------|
+|Week 0 |<a href="https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/issues/1" target="_blank">saumyapalak23</a> |
+
+
 **_5.1-5.6 Study Notes_**
 
 **5.1 Video Notes: Beneficial and Harmful Effects**
@@ -380,6 +385,3 @@ trunk (row)
   ```
   
   
-| Week |**Review Tickets**|
-|-------|--------------------|
-|Week 0 |<a href="https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/issues/1" target="_blank">saumyapalak23</a> |
