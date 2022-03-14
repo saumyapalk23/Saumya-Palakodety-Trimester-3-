@@ -67,10 +67,21 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 *  iii. Yes! Definitely. There are a lot of set rules that make it difficult for there to be fair allocation of devices, and so not everybody is empowered. At DNHS, there are many students who cannot get a device of their own, and must use a chromebook in school everyday provided by the school. This exists all over the world, in underprivileged and rural areas, and strong adhesion to such rules.
 
 
+
+
+
 **_Create Task_**
 
 |Profile Links | Runtime Link (Codefish) | Code Snippets/Written Responses | Planning Page |
 | --------------- | --------------- | -------------------------------------- | --------------|
 |  <a href="https://github.com/saumyapalk23" target="_blank">saumyapalak23</a> | http://dnhscodefish.tk/ |<a href="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" target="_blank">Code Snippets/Written Responses (Saumya)</a> |<a href = "https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" target = "_blank"> Tic Tac Toe Partner Create Task Outline
 |<a href="https://github.com/VidhiKulkarni" target="_blank">VidhiKulkarni</a> |http://dnhscodefish.tk/| <a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a> |<a href = "https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" target = "_blank"> Tic Tac Toe Partner Create Task Outline | |
+  
+  
+  
 
+**_Challenges_**
+  
+| Code Snippets | Links to Runtime (Github and Repl)
+| --------------- | --------------------------------- | 
+|  | <a href="https://replit.com/join/afjdfnnhak-saumyapalak" target="_blank">Repl.it &</a>   <a href="https://github.com/sarayu-pr11/saas/commit/9e1e93a73865b5de75014f07e9dc212a8dd49151" target="_blank">Github Commits</a> |
