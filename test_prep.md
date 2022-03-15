@@ -1,10 +1,8 @@
 {% include navigation.html %}
 
 
-5.1-5.6 Study Notes
-
-5.1 Video Notes: Beneficial and Harmful Effects
-
+_**5.1-5.6 Study Notes_**
+**5.1 Video Notes: Beneficial and Harmful Effects**
 WII and iPhone
 WII before iPhone
 Both have accelerometers, in development for same periods of time
@@ -22,8 +20,8 @@ Effects of comp innovation are dangerous/beneficial at the same time, to many pp
 Ppl create computing innovations (3d printers)
 Advances in computing generated creativity in other fields
 LOOK AT FLOWCHARTS! Assume anything will work unless stated otherwise
-Beneficial and Harmful Effects Video 2
 
+**Beneficial and Harmful Effects Video 2**
 Comp innovation can impact beyond purpose
 Ex: internet was beneficial, now ppl spend more time on internet than sleep
 Dopamine feedback loops → like, comment, etc: happier
@@ -33,7 +31,8 @@ Little payments for cosmetics, paywall to functionality, sometimes pay to win, e
 Comp innovations may harm society, economy, culture
 Impossible for a programmer to consider all the ways a computing innovation is used
 Rapid sharing of a program results in impacts beyond intended purpose/control
-5.2 Video Notes: Digital Divide
+
+**5.2 Video Notes: Digital Divide**
 
 Issues that contribute to divide
 Internet access varies bw all areas
@@ -43,10 +42,9 @@ Geographic: live w not that many ppl; no Internet
 Demographics (Age, Religion) → less likely to have these things
 Countries: computers not common in rural areas, small # of websites, internet to protect/advocate govt, high surveillance to protect govt.
 Digital divide affects grps, individuals, raises issues, affected by actions of orgs, individuals, etc.
-Github Pages Action Responses
 
+_**Github Pages Action Responses_**
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing:
-
 i. Beneficial effects of computing include enhanced tech advances that can aid us in our educational experiences, by being able to use services such as IntelliJ and the internet when necessary.
 ii. We can create websites or other online platforms that help students or even adults around the world.
 iii. Tech is also a great time-saver. It definitely helps with efficiency as we’re can definitely use it in our daily activities, instead of doing things in an older way.
