@@ -1,4 +1,4 @@
-{% include navvigation.html %}
+{% include navigation.html %}
 
 | Week |**Review Tickets**|
 |-------|--------------------|
