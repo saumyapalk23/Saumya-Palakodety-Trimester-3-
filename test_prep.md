@@ -44,7 +44,7 @@ Microtransactions
 * Countries: computers not common in rural areas, small # of websites, internet to protect/advocate govt, high surveillance to protect govt.
 * Digital divide affects grps, individuals, raises issues, affected by actions of orgs, individuals, etc.
 
-_**Github Pages Action Responses_**
+**_Github Pages Action Responses_**
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing:
 i. Beneficial effects of computing include enhanced tech advances that can aid us in our educational experiences, by being able to use services such as IntelliJ and the internet when necessary.
 ii. We can create websites or other online platforms that help students or even adults around the world.
