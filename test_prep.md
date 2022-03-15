@@ -47,11 +47,15 @@ Microtransactions
 **_Github Pages Action Responses_**
 
 **Come up with three of your own Beneficial and corresponding Harmful Effects of Computing:**
+
 **Beneficial**
+
 i. Beneficial effects of computing include enhanced tech advances that can aid us in our educational experiences, by being able to use services such as IntelliJ and the internet when necessary.
 ii. We can create websites or other online platforms that help students or even adults around the world.
 iii. Tech is also a great time-saver. It definitely helps with efficiency as we’re can definitely use it in our daily activities, instead of doing things in an older way.
+
 **Disadvantageous**
+
 i. Tech can be harmful because of social media. We often look online and see others and admire their lives that it lowers self-esteem and can bring a variety of mental health problems.
 ii. Tech can bring a sense of isolation. We no longer pick up calls, we only text. Studies have found proof of this, that individuals that use social media much more actively than those who don't, have a higher sense of self-isolation.
 iii. Tech can be harmful because of time, also. It can be pretty distracting and often takes time for me to get back on track, to stop procrastinating.
