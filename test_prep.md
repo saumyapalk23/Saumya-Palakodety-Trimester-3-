@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 
-_**5.1-5.6 Study Notes_**
+**_5.1-5.6 Study Notes_**
 
 **5.1 Video Notes: Beneficial and Harmful Effects**
 * WII and iPhone
