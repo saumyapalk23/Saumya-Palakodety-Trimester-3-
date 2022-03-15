@@ -1,3 +1,6 @@
+{% include navigation.html %}
+
+
 5.1-5.6 Study Notes
 
 5.1 Video Notes: Beneficial and Harmful Effects
