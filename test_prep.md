@@ -20,7 +20,9 @@
 * Ppl create computing innovations (3d printers)
 * Advances in computing generated creativity in other fields
 * LOOK AT FLOWCHARTS! Assume anything will work unless stated otherwise
+* 
 **Beneficial and Harmful Effects.2**
+
 * Comp innovation can impact beyond purpose
 * Ex: internet was beneficial, now ppl spend more time on internet than sleep
 * * Dopamine feedback loops → like, comment, etc: happier
@@ -35,6 +37,7 @@ Microtransactions
 
 
 **5.2 Video Notes: Digital Divide**
+
 * Issues that contribute to divide
 * Internet access varies bw all areas
 * Divide → differing access
