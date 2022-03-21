@@ -2,7 +2,7 @@
 
 **Hi, I'm Saumya Palakodety, a sophomore at DNHS. I'm the primary designer in SAAS!**
 
-SAAS Github Page: <iframe width="1200" height="400" src="https://sarayu-pr11.github.io/saas/" title="Learn more about our team here!" frameborder="8"></iframe>
+<iframe width="1200" height="400" src="https://sarayu-pr11.github.io/saas/" title="Trimester 1 Personal Journal" frameborder="8"></iframe>
 
 **_Previous Projects_**
 
@@ -32,7 +32,7 @@ This is helpful to new teachers who might want to reference things about our sch
 Project Description: Our goal this trimester with our website is to make a helpful and viable alternative to phyiscal manuals during an evacuation. We hope to convert all paper necessities into an online format as well as add other pages that would make evacuating on short notice easier. Overall, we hope to make the hassle of evacuation as simple and least stressful as possible.
 
 
-*_Technical Expertise: AP Computer Science Principles_*
+*Technical Expertise: AP Computer Science Principles*
 
-*_Create Task: Click on the CT link in the top right for more information!_*
+*Create Task: Click on the CT link in the top right for more information!*
 
