@@ -11,8 +11,6 @@
  
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@saumyapalak/CS-Challenges?lite=true#main.py"></iframe>
 
-
-
   
 **_Code Snippets From Challenges_**
 
@@ -67,6 +65,10 @@ recursive_loop(0,a,b)
 
 ```
 
+  
+  
+  
+  
 **Fibonacci**
 
 ```
@@ -91,6 +93,9 @@ else:
        count += 1
  ```
 
+  
+  
+  
 
 **Menu/Submenu**
   
