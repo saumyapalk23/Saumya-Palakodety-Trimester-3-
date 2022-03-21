@@ -10,9 +10,11 @@
   
 
 Github Embeds:
-
-<iframe src="https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" width="100%" height="300" style="border:1px solid black;"></iframe>
   
-<iframe src="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" width="100%" height="300" style="border:1px solid black;"></iframe>
+ <iframe width="1200" height="400" src="https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" title="Saumya's Written Response" frameborder="8"></iframe>
 
-<iframe src="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" width="100%" height="300" style="border:1px solid black;"></iframe>
+  <iframe width="1200" height="400" src="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" title="Vidhi's Written Response" frameborder="8"></iframe>
+
+  <iframe width="1200" height="400" src="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" title="Create Task Tentative Plans" frameborder="8"></iframe>
+
+  
