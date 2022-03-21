@@ -1,4 +1,7 @@
  
+{% include navigation.html %}
+
+
 **_Code Snippets From Challenges_**
 
 **Lists/Loops**
