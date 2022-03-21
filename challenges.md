@@ -2,6 +2,8 @@
 {% include navigation.html %}
 
 **_Challenges_**
+
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@saumyapalak/CS-Challenges?lite=true#main.py"></iframe>
   
 | Links to Runtime (Github and Repl)
  --------------------------------- | 
@@ -9,8 +11,6 @@
 
  <div>
  
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@saumyapalak/CS-Challenges?lite=true#main.py"></iframe>
-
   
 **_Code Snippets From Challenges_**
 
