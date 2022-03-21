@@ -135,21 +135,33 @@ Distributed Computing
 
 **Thoughts on the HP Video**
 * I thought it was really interesting. I found it really upsetting, but the fact that those who were developing it were probably white people, or the main audience at the time during development was white, could have definitely influenced why the product was only targeted at a certain group. 
+
 **Does the owner of the computer think this was intentional?**
+
 * I definitely do not think this was intentional. While there are obvious personal biases, as a team developing something for the world, it would have not been in their best interest to create something simply for the white audience only.
+
 **How do you think this happened?**
+
 * I think this is because the developers were white, so they did not think about other races or demographics.
+
 **Is this harmful? Was it intended to be harmful or exclude?**
+
 * Yes! It is harmful. This may not have been intentional, but the lack of attention to detail or proper care is harmful. It promotes the idea that technology is designed only for white people, and it is important to be inclusive so that other groups of people or races are able to use technology in the same manner.
+
 **Should it be corrected?**
+
 * Definitely! There should be improvement because not only is it unfair, it is discriminatory, and harmful. 
+
 **What would you or should you do to produce a better outcome?**
+
 * I think it would be important to put more diverse individuals in the developing process. More points of view will come out to avoid such a big discrepancy.
 
 **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
+
 * A crowdsource idea we could do is to help initiate professional connections. We could have CSP students and adults, as well as guest speakers who are in a certain field themselves, come in and communicate. We can have students experiment and work together in things they are confused on, continuing to challenge themselves. Through this, we can generate solutions to problems and generate brainstorming, which can ultimately lead us to a lot of societal improvement.
 
 **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
+
 * We can help initiate professional connections, and do the same thing as before, but instead have a variety of subjects other than computer science. We can have groups like chemistry, biology, mathematics, astrophysics, etc. We can thus generate audiences and brainstorming in all of these groups, which can combine to create solutions to a lot of problems, or at least, probable solutions.
 
 
