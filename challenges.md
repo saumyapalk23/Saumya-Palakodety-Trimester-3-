@@ -7,8 +7,84 @@
  --------------------------------- | 
 | <a href="https://replit.com/join/afjdfnnhak-saumyapalak" target="_blank">Repl.it &</a>   <a href="https://github.com/sarayu-pr11/saas/commit/9e1e93a73865b5de75014f07e9dc212a8dd49151" target="_blank">Github Commits</a> |
 
+ 
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/join/afjdfnnhak-saumyapalak?QUERY_PARAMETERS"></iframe>
+
   
 **_Code Snippets From Challenges_**
+
+**Lists/Loops**
+```Family = []
+# List with dictionary records placed in a list
+Family.append({
+               "Mom": "Kalpana",  
+               "Dad": "Ravi",  
+               "Children": ["Saumya","Shreya"],
+               "Residence": "San Diego" , 
+               "Population":"4" 
+              })
+Family.append({
+              "Pets": "None",  
+              "Near_Parks": "Trent",  
+              "DOBs": ["August 26", "September 28", "April 5", "November 21"]  ,
+              "Cousins": ["Siva","Harini", "Pranav", "Nithya"],  
+              "Emails":["saumyp3@gmail.com", "ravips1@gmail.com", "k_palakodety@yahoo.com","shreya.palakodety@gmail.com"]  
+              })
+
+a = input("Type key: " )
+b = input("Type value: " )
+
+
+def for_loop(key, value):
+  for data in Family:
+    if(data[key]) == value:
+      print(data[key])
+      return
+for_loop(a,b)
+
+def while_loop(key, value):
+  i = 0
+  while i < len(Family):
+    if (Family[i][key] == value):
+      print(Family[i][key])
+      return
+   i +=1
+while_loop(a,b)
+
+def recursive_loop(i, key, value):
+  if (i < len(Family)):
+    if (Family[i][key] == value):
+      print(Family[i][key])
+      return
+    i += 1
+    recursive_loop(i, key, value)
+  return
+recursive_loop(0,a,b)
+
+```
+
+**Fibonacci**
+```nterms = int(input("Display term #: "))
+
+n1, n2 = 0, 1
+count = 0
+
+if nterms <= 0:
+     raise Exception("Please enter a positive integer")
+  elif nterms == 1:
+     print("Fibonacci sequence upto",nterms,":")
+     print(n1)
+  else:
+     print("Fibonacci sequence:")
+     while count < nterms:
+         print(n1)
+         nth = n1 + n2
+         # update values
+         n1 = n2
+         n2 = nth
+         count += 1
+ ```
+
 
 **Menu/Submenu**
   
