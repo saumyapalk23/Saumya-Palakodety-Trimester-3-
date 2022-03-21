@@ -8,8 +8,11 @@
 |<a href="https://github.com/VidhiKulkarni" target="_blank">VidhiKulkarni</a> |http://dnhscodefish.tk/| <a href="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" target="_blank">Code Snippets/Written Responses (Vidhi)</a> |<a href = "https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" target = "_blank"> Tic Tac Toe Partner Create Task Outline 
 
   
-  <iframe frameborder="0" width="100%" height="500px" src="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" title="Code Snippets/Written Responses (Saumya)"?QUERY_PARAMETERS"></iframe>
 
-  
+Github Embeds:
 
+<iframe src="https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe" width="100%" height="300" style="border:1px solid black;"></iframe>
   
+<iframe src="https://github.com/arushi10/codefish/wiki/Written-Response-And-Video-(Create-Task)---Saumya" width="100%" height="300" style="border:1px solid black;"></iframe>
+
+<iframe src="https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task" width="100%" height="300" style="border:1px solid black;"></iframe>
