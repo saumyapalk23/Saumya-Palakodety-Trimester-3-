@@ -8,14 +8,17 @@
 | <a href="https://replit.com/join/afjdfnnhak-saumyapalak" target="_blank">Repl.it &</a>   <a href="https://github.com/sarayu-pr11/saas/commit/9e1e93a73865b5de75014f07e9dc212a8dd49151" target="_blank">Github Commits</a> |
 
  
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/join/afjdfnnhak-saumyapalak?QUERY_PARAMETERS"></iframe>
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@saumyapalak/CSChallenges?lite=true#src/main.py"></iframe>
+
+
 
   
 **_Code Snippets From Challenges_**
 
 **Lists/Loops**
-```Family = []
-# List with dictionary records placed in a list
+
+```
+Family = []
 Family.append({
                "Mom": "Kalpana",  
                "Dad": "Ravi",  
@@ -64,25 +67,27 @@ recursive_loop(0,a,b)
 ```
 
 **Fibonacci**
-```nterms = int(input("Display term #: "))
+
+```
+nterms = int(input("Display term #: "))
 
 n1, n2 = 0, 1
 count = 0
 
 if nterms <= 0:
-     raise Exception("Please enter a positive integer")
-  elif nterms == 1:
-     print("Fibonacci sequence upto",nterms,":")
-     print(n1)
-  else:
-     print("Fibonacci sequence:")
-     while count < nterms:
-         print(n1)
-         nth = n1 + n2
-         # update values
-         n1 = n2
-         n2 = nth
-         count += 1
+   raise Exception ("Try again with a positive number.")
+elif nterms == 1:
+   print("Fibonacci sequence upto",nterms,":")
+   print(n1)
+else:
+   print("Fibonacci sequence:")
+   while count < nterms:
+       print(n1)
+       nth = n1 + n2
+       # update values
+       n1 = n2
+       n2 = nth
+       count += 1
  ```
 
 
