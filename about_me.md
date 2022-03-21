@@ -36,5 +36,5 @@ Project Description: Our goal this trimester with our website is to make a helpf
 
 *Technical Expertise: AP Computer Science Principles*
 
-*Create Task: Click on the CT link in the top right for more information!*
+*Create Task: Click on the CT tab at the top for more information!*
 
