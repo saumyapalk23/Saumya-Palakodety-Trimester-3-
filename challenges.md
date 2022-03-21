@@ -9,7 +9,7 @@
 
  <div>
  
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@saumyapalak/CSChallenges?lite=true#src/main.py"></iframe>
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@saumyapalak/CS-Challenges?lite=true#main.py"></iframe>
 
 
 
