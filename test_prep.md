@@ -166,6 +166,7 @@ Distributed Computing
 
 
 _**5.5 Notes**_
+
 **5.5 Daily Video 1: Legal/Ethical Concerns**
 * intellectual property: work/inventions where people have rights; easil accessed
 * ^ raises concerns about ownership
@@ -176,6 +177,8 @@ _**5.5 Notes**_
 * cite creates, and give credit. 
 * Some use other's work for harmful things, unfortunately. Legal and ethical concerns arise.
 * Digital divide: unequal distribution of access to tech.
+
+_**5.6 Notes**_
 
 **5.6 DV 1: Safe Computing**
 * PII; personal identifiable info. Critical/important information to identity. 
@@ -225,19 +228,28 @@ _**Github Pages Actions**_
  * We chose az GPL license b/c we want to allow people to access our work and modify it for its improvement.
 
 **Describe PII you have seen on project in CompSci Principles.**
+
 * We plan to use data bases with teachers/students information, so we plan to use authentication factors to ensure that that information is safe.
+
 **What are your feelings about PII and your exposure?**
+
 * I'm a little bit upset now that I've learned more about it, but I know that that is part of having a digital footprint. It is important to stay as safe as possible.
+
 **Describe good and bad passwords? What is another step that is used to assist in authentication.**
+
 * Lack of generic words, symbols, numbers, capitals, etc. ensure a strong password.
 * Multifactor authentication or biometric scans along with passwords ensure more security.
+
 **Try to describe Symmetric and Asymmetric encryption.**
+
 * encryption: 
 * * one key in symmetric for both encryption and decryption,
 * * two keys in asymmetric (public/private for encoding/decoding), in which sender doesn't need receiver's private key for encryption, but receiver's private key is REQUIRED for decryption
 
 **Provide and example of encryption we used in deployment.**
+
 * Database and server encryption, in which we encrypted our databases for security instead of leaving them in plain text.
 
 **Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
+
 * Where a suspicious email appears to be from a bank or another supposedly trustworthy website, but they lure individuals with a link which installs a virus on a computer or reveals a lot of PII.
