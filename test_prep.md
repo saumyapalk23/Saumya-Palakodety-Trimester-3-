@@ -165,3 +165,79 @@ Distributed Computing
 * We can help initiate professional connections, and do the same thing as before, but instead have a variety of subjects other than computer science. We can have groups like chemistry, biology, mathematics, astrophysics, etc. We can thus generate audiences and brainstorming in all of these groups, which can combine to create solutions to a lot of problems, or at least, probable solutions.
 
 
+_**5.5 Notes**_
+**5.5 Daily Video 1: Legal/Ethical Concerns**
+* intellectual property: work/inventions where people have rights; easil accessed
+* ^ raises concerns about ownership
+* Copyright: when you create something, you own it. It protects your property, unless you give permission. It is plagiarism if people use code for their own. It is legal if used with Creative Commons, open source, or open access.
+* Creative Commons: free licenses that can tell others how you want them to use your creation. Regulates freedom with creativity.
+* open source: programs made freely for anyone and redistributed and modified. encourages collaboration.
+* open acceess: online research with no restricts on access/use.
+* cite creates, and give credit. 
+* Some use other's work for harmful things, unfortunately. Legal and ethical concerns arise.
+* Digital divide: unequal distribution of access to tech.
+
+**5.6 DV 1: Safe Computing**
+* PII; personal identifiable info. Critical/important information to identity. 
+* used to steal identity, funds, or for impersonation.
+* PII in search engines, locations, search history, etc.
+* PII enhances online experience but can also be exploited
+* Google/ISP know information, so they can recommend certain sites to you based on what you are looking for.
+* tracking of online behavior also from travel sites/firms
+* detail control about individuals are on the internet
+* * difficult to get rid of inromation
+* * can deduce private information, used harmfully
+
+**5.6 DV 1: Safe Computing**
+* authentication protects devices (authorized access)
+* passwords, multi-factor authentication
+* factors; the more secure, the harder to guess
+* * 10/more characters, symbols, numbers, not generic
+* authentication
+* * passwords, biometric data, what you have/cards, etc.
+* * ex: computer; password, then identity verification, then fingerprint, etc.
+* viruses/malware
+* * virusese copy themselves, gain access to systems, bypass multifactor authentication
+* * infiltrate systems by posing as legit programs, takes over operations
+* run virus scans!!
+* legit data should stay uncompromised through encryption (encoding data) which is then decoded
+* encryption: symmetric, asymmetric: one key in symmetric for both encryption and decryption, two keys in asymmetric (public/private for encoding/decoding)
+* * sender doesn't need receiver's private key for encryption, but receiver's private key is REQUIRED for decryption
+
+**5.6 DV 3: Safe Computing**
+* internet is very important
+* used for bad things, too
+* ^risks to personal safety, identity
+* phishing: tricking ppl into giving PII
+* phishing emails look trustworthy, but you click on links or open attachments that give PII
+* clicking on these links --> installs virus, fake websites, installing keyloggers
+* keyloggers: ppl track keytrokes to gain information
+* rogue access point: wireless network that gives unauthorized access to secure networks
+
+_**Github Pages Actions**_
+
+**When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
+
+* Open access, creative commons license, and open source allow for people to use other creative works freely. 
+
+**Make a license for your personal and Team project. Document license you picked and why.**
+
+ * We chose az GPL license b/c we want to allow people to access our work and modify it for its improvement.
+
+**Describe PII you have seen on project in CompSci Principles.**
+* We plan to use data bases with teachers/students information, so we plan to use authentication factors to ensure that that information is safe.
+**What are your feelings about PII and your exposure?**
+* I'm a little bit upset now that I've learned more about it, but I know that that is part of having a digital footprint. It is important to stay as safe as possible.
+**Describe good and bad passwords? What is another step that is used to assist in authentication.**
+* Lack of generic words, symbols, numbers, capitals, etc. ensure a strong password.
+* Multifactor authentication or biometric scans along with passwords ensure more security.
+**Try to describe Symmetric and Asymmetric encryption.**
+* encryption: 
+* * one key in symmetric for both encryption and decryption,
+* * two keys in asymmetric (public/private for encoding/decoding), in which sender doesn't need receiver's private key for encryption, but receiver's private key is REQUIRED for decryption
+
+**Provide and example of encryption we used in deployment.**
+* Database and server encryption, in which we encrypted our databases for security instead of leaving them in plain text.
+
+**Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
+* Where a suspicious email appears to be from a bank or another supposedly trustworthy website, but they lure individuals with a link which installs a virus on a computer or reveals a lot of PII.
