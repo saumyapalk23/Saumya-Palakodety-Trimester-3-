@@ -154,7 +154,7 @@ Distributed Computing
 
 **What would you or should you do to produce a better outcome?**
 
-* I think it would be important to put more diverse individuals in the developing process. More points of view will come out to avoid such a big discrepancy.
+* I think it would be important to put more diverse individuals in the developing process. More points of view will come out to avoid such a big discrepancy. Creating a facial recognition software that doesn't discriminate based on race would also be helpful so that this issue doesn't arise again. 
 
 **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
 
@@ -221,7 +221,7 @@ _**Github Pages Actions**_
 
 **When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
 
-* Open access, creative commons license, and open source allow for people to use other creative works freely. 
+* Open access, creative commons license, and open source allow for people to use other creative works freely. Github also allows for an MIT license so that we can distribute code freely and to make closed source versions. 
 
 **Make a license for your personal and Team project. Document license you picked and why.**
 
