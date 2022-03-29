@@ -225,31 +225,32 @@ _**Github Pages Actions**_
 
 **Make a license for your personal and Team project. Document license you picked and why.**
 
- * We chose az GPL license b/c we want to allow people to access our work and modify it for its improvement.
+ * We chose az GPL license b/c we want to allow people to access our work and modify it for its improvement. I chose a Creative Commons v1. Universal licencse in order to safely give legal access to my code to share with others. 
 
 **Describe PII you have seen on project in CompSci Principles.**
 
-* We plan to use data bases with teachers/students information, so we plan to use authentication factors to ensure that that information is safe.
+* We have seen data bases with teachers/students information, so we plan to use authentication factors to ensure that that information is safe.  
 
 **What are your feelings about PII and your exposure?**
 
-* I'm a little bit upset now that I've learned more about it, but I know that that is part of having a digital footprint. It is important to stay as safe as possible.
+* I'm a little bit upset now that I've learned more about it, but I know that that is part of having a digital footprint. It is important to stay as safe as possible. I feel that I hhad some exposure to PII becuase I worked a little bit on the database last trimester. 
 
 **Describe good and bad passwords? What is another step that is used to assist in authentication.**
 
-* Lack of generic words, symbols, numbers, capitals, etc. ensure a strong password.
-* Multifactor authentication or biometric scans along with passwords ensure more security.
+*  A bad password has a lack of generic words, symbols, numbers, capitals, etc. which makes the password weak
+*  A good password has a mix of letters, capitals, numbers, symbols, characters, etc. in order to add strength to the password
+* Multifactor authentication or biometric scans along with passwords ensure more security. Fingerprint and facial recognition are also used to assist in authenticatiion. Security phrases that only the person who's account it is, knows the answer to those questions also helps with authetication and protection of privacy. 
 
 **Try to describe Symmetric and Asymmetric encryption.**
 
 * encryption: 
-* * one key in symmetric for both encryption and decryption,
+* * one key (private key) in symmetric for both encryption and decryption,
 * * two keys in asymmetric (public/private for encoding/decoding), in which sender doesn't need receiver's private key for encryption, but receiver's private key is REQUIRED for decryption
 
 **Provide and example of encryption we used in deployment.**
 
-* Database and server encryption, in which we encrypted our databases for security instead of leaving them in plain text.
+* Database and server encryption, in which we encrypted our databases for security instead of leaving them in plain text. Encryption is also used when using certbot to make the website secure or add the 's' in https. 
 
 **Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
 
-* Where a suspicious email appears to be from a bank or another supposedly trustworthy website, but they lure individuals with a link which installs a virus on a computer or reveals a lot of PII.
+* Where a suspicious email appears to be from a bank or another supposedly trustworthy website, but they lure individuals with a link which installs a virus on a computer or reveals a lot of PII. Other phishing techniques are posing as real organizations and asking people to click on links for prizes. 
