@@ -1,7 +1,31 @@
+from week0 import catanim, christmastree, icecream, keypad, ship, swap
+from week1 import familyloops, fibonacci
+from week2 import factorial, mathfunction
+
+
 main_menu = [
     # ["Week O", "week0/week0_menu.py"],
-    ["Week 1", "week1/week1_menu.py"]
+    # ["Week 1", "week1/week1_menu.py"],
+      ["Week 2", "week2/week2_menu.py"],
+
+  
 ]
+
+sub_menu = [
+    # ["Week O", "week0/week0_menu.py"],
+    # ["Week 1", "week1/week1_menu.py"],
+      ["Week 2", "week2/week2_menu.py"],
+
+  
+]
+
+# math_menu = [
+#     ["Factors", mathfunction.factors],
+#     ["GCD", mathfunction.gcd],
+#     ["LCM", mathfunction.lcm],
+#     ["Primes", mathfunction.primes],
+# ]
+
 
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
