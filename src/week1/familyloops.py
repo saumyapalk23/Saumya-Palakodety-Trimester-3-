@@ -17,9 +17,9 @@ Family.append({
 
 print (Family)
 
-def driver():
-  a = input("Enter key: " )
-  b = input("Enter value: " )
+
+a = input("Enter key: " )
+b = input("Enter value: " )
 
 def for_loop(key, value):
   for data in Family:

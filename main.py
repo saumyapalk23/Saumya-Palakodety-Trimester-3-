@@ -20,6 +20,7 @@ from src.week1 import fibonacci
 from src.week2 import factorial
 from src.week2 import mathfunction
 
+
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -27,8 +28,8 @@ from src.week2 import mathfunction
 
 
 main_menu = [
-    ["Swap", None],
-    ["Keypad", None],
+    ["Swap", swap.driver],
+    ["Keypad", keypad.matrix],
     ["Family", None],
     ["Fibonacci", fibonacci.driver],
     ["Factorial", factorial.driver],
@@ -39,13 +40,13 @@ main_menu = [
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Swap", swap.driver],
-    ["Keypad", keypad.matrix],
     ["Cat", catanim.ship],
     ["Icecream", icecream.ship],
     ["Christmas Tree", christmastree.driver],
     ["Ship", ship.ship],
 ]
+
+
 
 # for_loop(a,b)
 # while_loop(a,b)
@@ -75,7 +76,7 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Week 0", submenu])
+    menu_list.append(["Animations", submenu])
     buildMenu(title, menu_list)
 
 # def submenu
@@ -84,6 +85,7 @@ def menu():
 def submenu():
     title = "Function Submenu" + banner
     buildMenu(title, sub_menu)
+
 
 def buildMenu(banner, options):
     # header for menu
