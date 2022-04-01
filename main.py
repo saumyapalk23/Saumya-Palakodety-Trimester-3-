@@ -17,8 +17,9 @@ from src.week0 import christmastree
 from src.week0 import keypad
 from src.week0 import swap
 from src.week1 import fibonacci
-from src.week2 import factorial
+# from src.week2 import factorial
 from src.week2 import mathfunction
+from src.week1 import familyloops
 
 
 # Main list of [Prompts, Actions]
@@ -30,9 +31,9 @@ from src.week2 import mathfunction
 main_menu = [
     ["Swap", swap.driver],
     ["Keypad", keypad.matrix],
-    ["Family", None],
+    ["Family", familyloops.driver],
     ["Fibonacci", fibonacci.driver],
-    ["Factorial", factorial.driver],
+    ["Factorial", "src/week2/factorial.py"],
     ["Math Function", mathfunction.driver],
 ]
 
