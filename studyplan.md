@@ -1,3 +1,6 @@
+{% include navigation.html %}
+
+
 # Study Plan and Reflections
 <a href="https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/wiki/Study-Plan-and-Reflections" target="_blank">Study Plan</a>
 
