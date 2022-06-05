@@ -50,11 +50,11 @@
 
 **Here are some pictures from N@TM 2022 of both our presentations and capture the moment**
 
-![image1](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/20220601_183608_2.jpg)
-![image2](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/20220601_183612_2.jpg)
-![image3](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/IMG_3240.jpg)
-![image4](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/IMG_3243.jpg)
-![image5](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/IMG_3245.jpg)
-![image6](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/Image%20from%20iOS%20(10).jpg)
-![image7](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/Image%20from%20iOS%20(8).jpg)
-![image8](https://github.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/blob/00da2536d02736fd9ffda411d82e80bcd7efb4a3/Image%20from%20iOS.jpg)
+![image1](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/20220601_183608_2.jpg)
+![image2](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/20220601_183612_2.jpg)
+![image3](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/IMG_3240.jpg)
+![image4](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/IMG_3243.jpg)
+![image5](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/IMG_3245.jpg)
+![image6](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/Image%20from%20iOS%20(10).jpg)
+![image7](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/Image%20from%20iOS%20(8).jpg)
+![image8](https://raw.githubusercontent.com/saumyapalk23/Saumya-Palakodety-Trimester-3-/00da2536d02736fd9ffda411d82e80bcd7efb4a3/Image%20from%20iOS.jpg)
