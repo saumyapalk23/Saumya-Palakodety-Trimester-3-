@@ -9,7 +9,6 @@
 * As per our sponsor's request, I added CSS and changed our home page to make it more presentable.
 * I added buttons to link them to certain informational pages.
 * I loaded all the information into our pages as well.
-* I added specific assessments (quizzes) at the bottom of each informational page for students and teachers to take.
 
 **Self-Grade Assessment: 34/35**
 
