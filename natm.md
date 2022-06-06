@@ -42,6 +42,8 @@
   - [x] Maintaining Master Plan, - **I used this presentation and the wireframes to plan my technicals **(https://docs.google.com/presentation/d/1PfpdldJw-pYkluDR6k0ImZSDCCed3SaM_EN9-EdBfwE/edit?usp=sharing)**
   - [x] Sponsor Assessment[ (Team GitHub Page)](https://sarayu-pr11.github.io/saas/project_info)
   - [x] Team Assessment (Team Score) - **Team score is above**
+
+
 **Sponsor's Assessment:** Our sponsor was well-informed on our topic and was able to largely contribute to our project with good feedbacka and ideas. We were able to implement many of their ideas and it was easy to communicate, given that we had meetings planned where we showed progress and where to go from which point we were at.
 
 **Team Assessment: 35/35:** Our team worked well together. We kept each other on track and were sure to maintain diligence while in class. We all have individual technicals and requirements we completed, and even though we had some challenges along the way, we worked around them. We worked hard and problem-solved. We also asked many questions to both our sponsor and teachers in order to fix issues.
