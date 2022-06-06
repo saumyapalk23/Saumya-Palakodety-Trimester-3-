@@ -39,7 +39,7 @@
   - [x] Self Grade Assessment (Total: Individual and Team) - **Individual and Team score is above**
 - [x] Documentation of Project, Meeting Tech Guidelines (GitHub Pages)
   - [x] Showing Engagement (Tickets, Scrum Board) - **[insights for my work](https://github.com/sarayu-pr11/saas/graphs/contributors)**
-  - [x] Maintaining Master Plan, - **[I used this presentation and the wireframes to plan my technicals](https://docs.google.com/presentation/d/1PfpdldJw-pYkluDR6k0ImZSDCCed3SaM_EN9-EdBfwE/edit?usp=sharing) (https://sarayu-pr11.github.io/saas/plans)**
+  - [x] Maintaining Master Plan, - **[I used this presentation and the wireframes to plan my technicals](https://docs.google.com/presentation/d/1PfpdldJw-pYkluDR6k0ImZSDCCed3SaM_EN9-EdBfwE/edit?usp=sharing)** **[SAAS Wireframes](https://sarayu-pr11.github.io/saas/plans)**
   - [x] Sponsor Assessment[ (Team GitHub Page)](https://sarayu-pr11.github.io/saas/project_info)
   - [x] Team Assessment (Team Score) - **Team score is above**
 
